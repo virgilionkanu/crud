@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
-      "price": "5.89"
+      "name": "Caneta BIC+ Preta",
+      "price": "6.89"
     },
     {
       "id": 2,
@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Geladeira",
-      "price": "5000.89"
+      "name": "Geladeira+",
+      "price": "6000.89"
     }
   ]
 }
